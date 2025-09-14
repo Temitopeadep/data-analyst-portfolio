@@ -28,7 +28,7 @@ I am a Data Analyst with a strong background in **banking, finance, and business
 
 ## Work Experience  
 **United Bank for Africa (UBA)** – Relationship Officer, SMEs Banking  
-*2017 – 2023*  
+*2019 – Present*  
 - Managed relationships with Small and Medium Enterprises (SMEs).  
 - Conducted financial analysis to assess creditworthiness and profitability.  
 - Collaborated on financial inclusion strategies.  
@@ -43,4 +43,4 @@ I am a Data Analyst with a strong background in **banking, finance, and business
 ---
 
 👉 View my detailed **projects here**: [PROJECTS.md](PROJECTS.md)  
-# new
+
