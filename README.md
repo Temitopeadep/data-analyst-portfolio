@@ -79,7 +79,9 @@ AI-powered maternal health risk prediction model (XGBoost + BigQuery ML), integr
 - Accuracy: 89.6%, AUC: 0.95  
 - Identified ANC visits and clinical indicators (BMI, BP, HR) as key predictors.
 
-👉 [Full Project Details](PROJECT1.md#project-one--smartmum-maternal-health-risk-prediction-through-ai-xgboost-model)  
+  
+👉 [Full Project Details](PROJECT1.md#project-one--smartmum-maternal-health-risk-prediction-through-ai-xgboost-model)
+
 
 ---
 
