@@ -45,7 +45,7 @@ My mission is to utilize data not only to enhance organizational performance but
 - [LinkedIn](https://www.linkedin.com/in/temitopeadep/)  
 - [Tableau Public](https://public.tableau.com/app/profile/temitope.adepoju/vizzes)  
 - [GitHub](https://github.com/Temitopeadep)
-- [Email](adepoju.temitope@outlook.com)
+- [Email](mailto:ttemitope.adepoju@gmail.com)
 
 ## Education  
 - **B.Sc. Accounting** – Lead City University, Ibadan, Nigeria  
