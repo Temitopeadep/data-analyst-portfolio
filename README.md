@@ -77,7 +77,7 @@ My mission is to utilize data not only to enhance organizational performance but
 ## Project One – SmartMum: Maternal Health Risk Prediction  
 AI-powered maternal health risk prediction model (XGBoost + BigQuery ML), integrated with **Power BI** and **Power Apps** for real-time risk assessment.  
 - Accuracy: 89.6%, AUC: 0.95  
-- Identified ANC visits and clinical indicators (BMI, BP, HR) as key predictors  
+- Identified ANC visits and clinical indicators (BMI, BP, HR) as key predictors
 👉 [Full Project Details](PROJECT1.md#project-one--smartmum-maternal-health-risk-prediction-through-ai-xgboost-model)  
 
 ---
