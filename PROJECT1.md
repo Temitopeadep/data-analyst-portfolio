@@ -3,10 +3,10 @@
 ![AUC Score](https://img.shields.io/badge/AUC-0.95-blue)
 
 ## Overview
-This project was developed for the 3MTT knowledge showcase (July Edition), it's an AI-powered maternal health risk prediction tool built using BigQuery ML (XGBoost) and integrated with Power BI and Power Apps. It enables early identification of pregnancy-related complications by analyzing clinical and demographic data
+This project was developed for the 3MTT knowledge showcase (July Edition). It's an AI-powered maternal health risk prediction tool built using BigQuery ML (XGBoost) and integrated with Power BI and Power Apps. It enables early identification of pregnancy-related complications by analyzing clinical and demographic data
 
 ## Problem Statement 
-Many pregnant women, especially in underserved areas, miss early detection of health risks due to limited access to timely screening and data insights. There’s an urgent need for a smart, accessible tool that predicts maternal health risks early  supporting safer pregnancies and informed interventions.
+Many pregnant women, especially in underserved areas, miss early detection of health risks due to limited access to timely screening and data insights. There’s an urgent need for a smart, accessible tool that predicts maternal health risks early,  supporting safer pregnancies and informed interventions.
 
 ## Project Goal
 To reduce maternal health risks through early prediction and actionable insights for healthcare providers and expectant mothers.
