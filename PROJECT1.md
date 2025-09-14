@@ -39,7 +39,9 @@ Dataset: [Maternal Health Risk | Kaggle](...)
 
 
 ### PowerApps Interface
-![Screenshot](https://github.com/Temitopeadep/SmartMum--Maternal-Health-Risk-Prediction/blob/main/powerapp%20interface.png)
+
+<img width="1170" height="672" alt="powerapp" src="https://github.com/user-attachments/assets/041e679b-b3d2-497b-aaa1-d6261626700f" />
+
 
 ### Findings
 1. Model Performance: The XGBoost model achieved strong metrics — Accuracy: 89.6%, Recall: 87.3%, Precision: 88.1%, and AUC: 0.95, confirming its reliability in predicting maternal health risks.
