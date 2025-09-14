@@ -81,6 +81,7 @@ AI-powered maternal health risk prediction model (XGBoost + BigQuery ML), integr
 
   
 👉 [Full Project Details](PROJECT1.md#project-one--smartmum-maternal-health-risk-prediction-through-ai-xgboost-model)
+👉 [Full Project Details](PROJECT.md#project-one--smartmum-maternal-health-risk-prediction-through-ai-xgboost-model)
 
 
 ---
