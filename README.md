@@ -46,36 +46,36 @@ I am a Data Analyst with a strong background in **banking, finance, and business
 AI-powered maternal health risk prediction model (XGBoost + BigQuery ML), integrated with **Power BI** and **Power Apps** for real-time risk assessment.  
 - Accuracy: 89.6%, AUC: 0.95  
 - Identified ANC visits and clinical indicators (BMI, BP, HR) as key predictors  
-👉 [Full Project Details](PROJECTS.md#project-one--smartmum-maternal-health-risk-prediction-through-ai-xgboost-model)  
+👉 [Full Project Details](PROJECT1.md#project-one--smartmum-maternal-health-risk-prediction-through-ai-xgboost-model)  
 
 ---
 
 ## Project Two – Superstore Sales Dashboard  
 Excel-based sales dashboard analyzing **$14.9M sales across 8,399 orders**, providing insights into profit trends, customer behavior, and inventory optimization.  
-👉 [Full Project Details](PROJECTS.md#project-two--superstore-sales-dashboard)  
+👉 [Full Project Details](PROJECT2.md#project-two--superstore-sales-dashboard)  
 
 ---
 
 ## Project Three – Professional Trend Analysis  
 Power BI dashboard analyzing survey data from **630 professionals** across industries, roles, and demographics, uncovering trends in salary, education, gender representation, and career switching motivations.  
-👉 [Full Project Details](PROJECTS.md#project-three--professional-trend-analysis)  
+👉 [Full Project Details](PROJECT3.md#project-three--professional-trend-analysis)  
 
 ---
 
 ## Project Four – Titanic Survival Analysis  
 Python-based exploratory data analysis on the **Titanic dataset**, uncovering survival patterns by gender, class, and embarkation points. Female and first-class passengers had significantly higher survival rates, with an overall survival rate of ~38%.  
-👉 [Full Project Details](PROJECTS.md#project-four--titanic-survival-analysis)  
+👉 [Full Project Details](PROJECT4.md#project-four--titanic-survival-analysis)  
 
 ---
 
 ## Project Five – SQL Superstore Database & Analytics  
 End-to-end SQL project using Microsoft SQL Server. Designed a normalized database schema, cleaned and imported Superstore data, and wrote advanced SQL queries to extract insights on revenue, top customers, and product trends.  
-👉 [Full Project Details](PROJECTS.md#project-five--sql-superstore-database--analytics)  
+👉 [Full Project Details](PROJECT5.md#project-five--sql-superstore-database--analytics)  
 
 ---
 
 ## Project Six – HR Employee Attrition Dashboard  
 Tableau dashboard analyzing attrition patterns across 1,470 employees. Provided insights into demographics, turnover drivers, employee wellness, and performance. Supported HR with data-driven recommendations to improve retention.  
-👉 [Full Project Details](PROJECTS.md#project-six--hr-employee-attrition-dashboard)  
+👉 [Full Project Details](PROJECT6.md#project-six--hr-employee-attrition-dashboard)  
 
 
