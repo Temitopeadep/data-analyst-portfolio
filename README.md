@@ -13,7 +13,30 @@ This repository showcases selected projects in **SQL, Power BI, Tableau, Python,
 ---
 
 ## About Me  
-I am a Data Analyst with a strong background in **banking, finance, and business analytics**. My focus is on turning raw data into actionable insights that improve decision-making and drive impact.  
+# Hi, I’m Adepoju Temitope Elizabeth
+
+I am a **Data Analyst** with a strong background in Banking, Finance, and Accounting. With over six years of industry experience in the banking sector, I specialize in transforming raw data into actionable insights that drive strategic decision-making.
+
+I am passionate about leveraging data to:
+
+- Improve financial inclusion  
+- Empower SMEs and women-led businesses  
+- Enhance rural education development  
+
+## Core Strengths
+- Data Analysis: SQL, Python, Excel, Power BI, Tableau  
+- Data Visualization and Storytelling  
+- Business Analytics and Problem-Solving  
+- Relationship Management and Leadership  
+
+## Mission
+My mission is to utilize data not only to enhance organizational performance but also to create meaningful social impact.
+
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/temitopeadep/)  
+- [Tableau Public](https://public.tableau.com/app/profile/temitope.adepoju/vizzes)  
+- [GitHub](https://github.com/Temitopeadep)
+- [Email](adepoju.temitope@outlook.com)
 
 ## Education  
 - **B.Sc. Accounting** – Lead City University, Ibadan, Nigeria  
