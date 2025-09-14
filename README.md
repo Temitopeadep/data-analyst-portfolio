@@ -13,9 +13,8 @@ This repository showcases selected projects in **SQL, Power BI, Tableau, Python,
 ---
 
 ## About Me  
-<p align="center">
-  <img src="https://github.com/Temitopeadep/data-analyst-portfolio/blob/main/temitope%20pic.jpg" alt="Temitope Elizabeth" width="200"/>
-</p>
+![dp](https://github.com/user-attachments/assets/2a55347d-b4c2-4a3c-9748-b3faa0e5ef46)
+
 
 # Hi, I’m Adepoju Temitope Elizabeth
 
