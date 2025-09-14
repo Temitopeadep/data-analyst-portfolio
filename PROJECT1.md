@@ -36,15 +36,16 @@ Dataset: [Maternal Health Risk | Kaggle](...)
 - Core columns: Age, BP, BS, BodyTemp, HeartRate, BMI, ANC Visits, Trimester, Region, Education  
 - Enhanced columns: Delivery History, Hospital Access
 
-  ### Dashboard
-  
-![Screenshot](https://github.com/Temitopeadep/SmartMum--Maternal-Health-Risk-Prediction/blob/main/dashboard1.png)
+### Dashboard
 
-![Screenshot](https://github.com/Temitopeadep/SmartMum--Maternal-Health-Risk-Prediction/blob/main/dashboard2.png)
+![Screenshot](https://raw.githubusercontent.com/Temitopeadep/SmartMum--Maternal-Health-Risk-Prediction/main/dashboard1.png)
+
+![Screenshot](https://raw.githubusercontent.com/Temitopeadep/SmartMum--Maternal-Health-Risk-Prediction/main/dashboard2.png)
 
 ### PowerApps Interface
 
-![Screenshot](https://github.com/Temitopeadep/SmartMum--Maternal-Health-Risk-Prediction/blob/main/powerapp%20interface.png)
+![Screenshot](https://raw.githubusercontent.com/Temitopeadep/SmartMum--Maternal-Health-Risk-Prediction/main/powerapp%20interface.png)
+
 
 ### Findings
 1. Model Performance: The XGBoost model achieved strong metrics — Accuracy: 89.6%, Recall: 87.3%, Precision: 88.1%, and AUC: 0.95, confirming its reliability in predicting maternal health risks.
