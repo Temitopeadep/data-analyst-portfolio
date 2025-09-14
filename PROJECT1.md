@@ -32,15 +32,26 @@ Dataset: [Maternal Health Risk | Kaggle](...)
 
   ### Dashboard
 
-<img width="1147" height="646" alt="smartmum1" src="https://github.com/user-attachments/assets/0a4a3cd7-0444-4928-a0ea-3d2541ddb05a" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0a4a3cd7-0444-4928-a0ea-3d2541ddb05a"
+       alt="smartmum1"
+       width="600" />
+</p>
 
-<img width="1146" height="652" alt="smartmum2" src="https://github.com/user-attachments/assets/314fe874-3f09-4eb1-bd68-c4b5f2590621" />
-
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/314fe874-3f09-4eb1-bd68-c4b5f2590621"
+       alt="smartmum2"
+       width="600" />
+</p>
 
 ### PowerApps Interface
 
-<img width="1170" height="672" alt="powerapp" src="https://github.com/user-attachments/assets/041e679b-b3d2-497b-aaa1-d6261626700f" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/041e679b-b3d2-497b-aaa1-d6261626700f"
+       alt="powerapp"
+       width="600" />
+</p>
+
 
 
 ### Findings
