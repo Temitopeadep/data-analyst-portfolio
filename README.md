@@ -13,7 +13,13 @@ This repository showcases selected projects in **SQL, Power BI, Tableau, Python,
 ---
 
 ## About Me  
-![dp](https://github.com/user-attachments/assets/2a55347d-b4c2-4a3c-9748-b3faa0e5ef46)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2a55347d-b4c2-4a3c-9748-b3faa0e5ef46"
+       alt="Profile picture"
+       width="200"
+       style="border-radius: 50%;" />
+</p>
 
 
 # Hi, I’m Adepoju Temitope Elizabeth
