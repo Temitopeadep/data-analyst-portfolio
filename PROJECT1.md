@@ -1,9 +1,3 @@
-# Portfolio Projects
-
-This document highlights my data analytics and visualization projects, covering tools such as Power BI, Tableau, Python, SQL, and Excel. Each project demonstrates my ability to extract insights, create dashboards, and make data-driven recommendations.
-
----
-
 # SmartMum: Maternal Health Risk Prediction Through AI (XGBoost Model)
 ![Model Accuracy](https://img.shields.io/badge/Accuracy-89.6%25-brightgreen)
 ![AUC Score](https://img.shields.io/badge/AUC-0.95-blue)
@@ -36,16 +30,12 @@ Dataset: [Maternal Health Risk | Kaggle](...)
 - Core columns: Age, BP, BS, BodyTemp, HeartRate, BMI, ANC Visits, Trimester, Region, Education  
 - Enhanced columns: Delivery History, Hospital Access
 
-### Dashboard
-
-![Screenshot](https://raw.githubusercontent.com/Temitopeadep/SmartMum--Maternal-Health-Risk-Prediction/main/dashboard1.png)
-
-![Screenshot](https://raw.githubusercontent.com/Temitopeadep/SmartMum--Maternal-Health-Risk-Prediction/main/dashboard2.png)
+  ### Dashboard
+![Screenshot](https://github.com/Temitopeadep/SmartMum--Maternal-Health-Risk-Prediction/blob/main/dashboard1.png)
+![Screenshot](https://github.com/Temitopeadep/SmartMum--Maternal-Health-Risk-Prediction/blob/main/dashboard2.png)
 
 ### PowerApps Interface
-
-![Screenshot](https://raw.githubusercontent.com/Temitopeadep/SmartMum--Maternal-Health-Risk-Prediction/main/powerapp%20interface.png)
-
+![Screenshot](https://github.com/Temitopeadep/SmartMum--Maternal-Health-Risk-Prediction/blob/main/powerapp%20interface.png)
 
 ### Findings
 1. Model Performance: The XGBoost model achieved strong metrics — Accuracy: 89.6%, Recall: 87.3%, Precision: 88.1%, and AUC: 0.95, confirming its reliability in predicting maternal health risks.
@@ -72,5 +62,5 @@ Dataset: [Maternal Health Risk | Kaggle](...)
 - [BigQuery](https://console.cloud.google.com/bigquery?sq=954458391922:ad90499052664c02a6328e99d623c19f)
 - [Power App](https://apps.powerapps.com/play/e/default-18f15a3f-ea52-4261-b725-0b0f0d1bab03/a/3f4e200a-5ef6-4243-a44a-16aac7ab0a22?tenantId=18f15a3f-ea52-4261-b725-0b0f0d1bab03&hint=19c11dff-6196-48df-8786-c149e04f3516&source=sharebutton&sourcetime=1752784196040)
 
----
+  
 
