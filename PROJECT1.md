@@ -37,10 +37,13 @@ Dataset: [Maternal Health Risk | Kaggle](...)
 - Enhanced columns: Delivery History, Hospital Access
 
   ### Dashboard
+  
 ![Screenshot](https://github.com/Temitopeadep/SmartMum--Maternal-Health-Risk-Prediction/blob/main/dashboard1.png)
+
 ![Screenshot](https://github.com/Temitopeadep/SmartMum--Maternal-Health-Risk-Prediction/blob/main/dashboard2.png)
 
 ### PowerApps Interface
+
 ![Screenshot](https://github.com/Temitopeadep/SmartMum--Maternal-Health-Risk-Prediction/blob/main/powerapp%20interface.png)
 
 ### Findings
