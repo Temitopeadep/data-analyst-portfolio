@@ -13,6 +13,10 @@ This repository showcases selected projects in **SQL, Power BI, Tableau, Python,
 ---
 
 ## About Me  
+<p align="center">
+  <img src="https://github.com/Temitopeadep/data-analyst-portfolio/blob/main/temitope%20pic.jpg" alt="Temitope Elizabeth" width="200"/>
+</p>
+
 # Hi, I’m Adepoju Temitope Elizabeth
 
 I am a **Data Analyst** with a strong background in Banking, Finance, and Accounting. With over six years of industry experience in the banking sector, I specialize in transforming raw data into actionable insights that drive strategic decision-making.
