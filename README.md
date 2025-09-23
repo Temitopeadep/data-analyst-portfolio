@@ -74,7 +74,8 @@ My mission is to utilize data not only to enhance organizational performance but
 - Built Power BI dashboards and Excel-based financial models.  
 - Conducted exploratory data analysis (EDA) in Python.
 
-  **United Bank for Africa (UBA)** – Relationship Officer | SME Portfolio Analyst 
+
+**United Bank for Africa (UBA)** – Relationship Officer | SME Portfolio Analyst 
 *2019 – Present*  
 - Analyzed SME loan portfolios, identifying risk patterns and reducing default rates by 12%.
 - Reviewed and analyzed clients’ statements of account to determine loan eligibility and recommend suitable credit amounts.
