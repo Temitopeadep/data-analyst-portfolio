@@ -24,13 +24,21 @@ This repository showcases selected projects in **SQL, Power BI, Tableau, Python,
 
 # Hi, I’m Adepoju Temitope Elizabeth
 
-I am a **Data Analyst** with a strong background in Banking, Finance, and SME Portfolio Analysis. With over six years of industry experience in the banking sector, I specialize in transforming raw data into actionable insights that drive strategic decision-making.
+I am a **Data Analyst** with over 6 years of experience in **banking, finance, and SME portfolio analysis**.  
+I specialize in using **SQL, Power BI, Python, and Excel** to clean, analyze, and visualize data, turning raw numbers into insights that guide smarter decisions.  
 
-I am passionate about leveraging data to:
+###  Key Achievements  
+- Reduced SME loan default rates by **12%** through risk pattern analysis.  
+- Analyzed client statements to determine loan eligibility and improve credit decisions.  
+- Built **dashboards and reports** to track repayment and SME performance.  
+- Supported **200+ SMEs** with access to credit and assisted **150+ businesses** with registration and compliance.  
 
-- Improve financial inclusion  
-- Empower SMEs and women-led businesses  
-- Enhance rural education development  
+I combine **technical analytics skills** with **business knowledge** to deliver solutions that improve performance and drive growth.  
+
+### Passion Areas  
+- Improve **financial inclusion**  
+- Empower **SMEs and women-led businesses**  
+- Support **rural education development**  
 
 ## Core Strengths
 - Data Analysis: SQL, Python, Excel, Power BI, Tableau  
@@ -74,6 +82,7 @@ My mission is to utilize data not only to enhance organizational performance but
 - Delivered data-driven insights that improved SME lending processes.
 - Supported 200+ SMEs by evaluating creditworthiness using data analytics.
 - Assisted 150+ SMEs with business registration, enabling access to loans, better compliance, and sustainable growth.
+- Consistently achieved 100% of portfolio business targets (PBT) by combining strong relationship management with data-driven portfolio analysis.
 
 
 ---
