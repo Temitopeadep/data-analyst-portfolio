@@ -68,12 +68,12 @@ My mission is to utilize data not only to enhance organizational performance but
 
   **United Bank for Africa (UBA)** – Relationship Officer | SME Portfolio Analyst 
 *2019 – Present*  
-• Analyzed SME loan portfolios, identifying risk patterns and reducing default rates by 12%.
-•	Reviewed and analyzed clients’ statements of account to determine loan eligibility and recommend suitable credit amounts.
-•	Designed Excel dashboards to track repayment & client performance.
-•	Delivered data-driven insights that improved SME lending processes.
-•	Supported 200+ SMEs by evaluating creditworthiness using data analytics.
-•	Assisted 150+ SMEs with business registration, enabling access to loans, better compliance, and sustainable growth.
+- Analyzed SME loan portfolios, identifying risk patterns and reducing default rates by 12%.
+- Reviewed and analyzed clients’ statements of account to determine loan eligibility and recommend suitable credit amounts.
+- Designed Excel dashboards to track repayment & client performance.
+- Delivered data-driven insights that improved SME lending processes.
+- Supported 200+ SMEs by evaluating creditworthiness using data analytics.
+- Assisted 150+ SMEs with business registration, enabling access to loans, better compliance, and sustainable growth.
 
 
 ---
