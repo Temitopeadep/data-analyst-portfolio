@@ -24,7 +24,7 @@ This repository showcases selected projects in **SQL, Power BI, Tableau, Python,
 
 # Hi, I’m Adepoju Temitope Elizabeth
 
-I am a **Data Analyst** with a strong background in Banking, Finance, and Accounting. With over six years of industry experience in the banking sector, I specialize in transforming raw data into actionable insights that drive strategic decision-making.
+I am a **Data Analyst** with a strong background in Banking, Finance, and SME Portfolio Analysis. With over six years of industry experience in the banking sector, I specialize in transforming raw data into actionable insights that drive strategic decision-making.
 
 I am passionate about leveraging data to:
 
@@ -59,18 +59,22 @@ My mission is to utilize data not only to enhance organizational performance but
 - Power BI for Business Intelligence – Quantum Analytics  
 
 ## Work Experience  
-**United Bank for Africa (UBA)** – Relationship Officer, SMEs Banking  
-*2019 – Present*  
-- Managed relationships with Small and Medium Enterprises (SMEs).  
-- Conducted financial analysis to assess creditworthiness and profitability.  
-- Collaborated on financial inclusion strategies.  
-- Delivered data-driven insights to improve decision-making.  
 
 **Freelance Data Analyst** – Project-Based  
 *2023 – Present*  
 - Designed SQL databases and analytics pipelines.  
 - Built Power BI dashboards and Excel-based financial models.  
-- Conducted exploratory data analysis (EDA) in Python.  
+- Conducted exploratory data analysis (EDA) in Python.
+
+  **United Bank for Africa (UBA)** – Relationship Officer | SME Portfolio Analyst 
+*2019 – Present*  
+• Analyzed SME loan portfolios, identifying risk patterns and reducing default rates by 12%.
+•	Reviewed and analyzed clients’ statements of account to determine loan eligibility and recommend suitable credit amounts.
+•	Designed Excel dashboards to track repayment & client performance.
+•	Delivered data-driven insights that improved SME lending processes.
+•	Supported 200+ SMEs by evaluating creditworthiness using data analytics.
+•	Assisted 150+ SMEs with business registration, enabling access to loans, better compliance, and sustainable growth.
+
 
 ---
 
